@@ -1,0 +1,3 @@
+{"time_utc": "2026-11-20T08:05:00.178511+00:00", "monotonic": 4967.0, "event": "serial_open_attempt", "port": "COM19", "baudrate": 3000000, "dtr": true, "rts": false, "format": "8N1", "flow_control": false}
+{"time_utc": "2026-11-20T08:05:00.179520+00:00", "monotonic": 4967.0, "event": "note", "message": "操作未完成：could not open port 'COM19': PermissionError(13, '拒绝访问。', None, 5)"}
+{"time_utc": "2026-11-20T08:50:52.168849+00:00", "monotonic": 7718.984, "event": "session_closed"}
